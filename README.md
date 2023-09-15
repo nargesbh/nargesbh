@@ -43,8 +43,7 @@ I'm a final-year Computer Science undergraduate student with a passion for multi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nargesbh&layout=compact&theme=transparent)
 
 ### Stat
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nargebh)
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nargebh)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in Touch
 
