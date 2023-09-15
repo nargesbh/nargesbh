@@ -6,19 +6,27 @@ I'm a final-year Computer Science undergraduate student with a passion for multi
 
 - 🎓 Final-year Computer Science undergraduate student
 - 🌟 Passionate about multimodal signal processing, NLP, and Computer Vision
-- 📚 Proficient in:
+- 💼 Experienced in:
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+- 💡 Familiar with:
+  - ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square)
   - ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-  - ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-- 💾 Experienced with MySQL for database management
-- 📝 Skilled in LaTeX for document preparation
-- 🧠 Familiar with deep learning frameworks like:
+  - ![Octave](https://img.shields.io/badge/Octave-0790C0?style=flat-square)
+  - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+- 🧰 Tools and Libraries:
+  - ![PyTorch](https://img.shields.io/badge/PyTorch-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
+  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  - ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
   - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-  - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-- 📊 Proficient in data manipulation with:
-  - ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-  - ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+  - ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  - ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+- 💻 Operating Systems:
+  - ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=white)
+  - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+  - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ## Current Projects
 
