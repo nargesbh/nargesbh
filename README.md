@@ -15,7 +15,7 @@ I'm a final-year Computer Science undergraduate student with a passion for multi
 ## Current Projects
 
 - 🔍 Internship in Text-Video Retrieval
-- 
+  
 ## Get in Touch
 
 - 📧 Email: [Nargesbabaahmadi7@gmail.com](Nargesbabaahmadi7@gmail.com)
@@ -24,4 +24,4 @@ I'm a final-year Computer Science undergraduate student with a passion for multi
 
 ## GitHub Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nargesbh&show_icons=true&theme=dark)
