@@ -1,6 +1,6 @@
 # Hello, I'm Narges
 
-I'm a final-year Computer Science undergraduate student with a passion for multimodal signal processing, including Natural Language Processing (NLP) and Computer Vision. I am actively seeking opportunities for further education, preferably in a Master's or direct Ph.D. program. Currently, I am gaining valuable experience through an internship in the field of text-video retrieval.
+I'm a final-year Computer Science undergraduate student with a passion for multimodal signal processing, including Natural Language Processing and Computer Vision. I am actively seeking opportunities for further education, preferably in a Master's or direct Ph.D. program. Currently, I am gaining valuable experience through an internship in the field of text-video retrieval.
 
 ## About Me
 
