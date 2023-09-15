@@ -42,6 +42,9 @@ I'm a final-year Computer Science undergraduate student with a passion for multi
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nargesbh&layout=compact&theme=transparent)
 
+### Language Card
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nargesbh&hide_progress=true)
+
 ## Get in Touch
 
 - 📧 Email: [Nargesbabaahmadi7@gmail.com](mailto:Nargesbabaahmadi7@gmail.com)
