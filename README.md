@@ -36,11 +36,11 @@ I'm a final-year Computer Science undergraduate student with a passion for multi
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nargesbh&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nargesbh&show_icons=true&theme=transparent)
 
 ### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nargesbh&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nargesbh&layout=compact&theme=transparent)
 
 ## Get in Touch
 
