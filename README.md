@@ -39,13 +39,6 @@ I'm a final-year Computer Science undergraduate student with a passion for multi
 
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=nargesbh&theme=dark)
 
-### Recent Activity
-
-![Recent Activity](https://activity-graph.herokuapp.com/graph?username=nargesbh&theme=github)
-
-### Wakatime Stats
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nargesbh&layout=compact&theme=dark)
 
 ## Get in Touch
 
