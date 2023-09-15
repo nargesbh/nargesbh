@@ -39,5 +39,5 @@ I'm a final-year Computer Science undergraduate student with a passion for multi
 ## Get in Touch
 
 - 📧 Email: [Nargesbabaahmadi7@gmail.com](mailto:Nargesbabaahmadi7@gmail.com)
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/narges-babaahmadi-598361214/)
+- 🔗 LinkedIn: [narges babaahmadi](https://www.linkedin.com/in/narges-babaahmadi-598361214/)
 - 🌐 Personal Website/Blog: [nargesbh.github.io](https://nargesbh.github.io)
